@@ -7,5 +7,6 @@ This repository is built step by step in the tutorial.
 it now includes steps for github.
 
 Mettez en réserve les modifications sur la branche actuelle (master) en utilisant la commande.
+These Angular docs help you learn and use the Angular framework and development platform, from your first application to optimizing complex single-page applications for enterprises. Tutorials and guides include downloadable examples to help you start your projects.
 
 
